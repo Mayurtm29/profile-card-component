@@ -14,7 +14,7 @@ body {
 }
 
 .container {
-    width: 300px;
+    width: 330px;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -70,14 +70,10 @@ hr {
     border-top: 1px solid hsla(0, 0%, 59%, 0.4);
 }
 
-.details {
-    padding: 1rem 0;
-}
-
 .social-stats {
     color: hsl(229, 23%, 23%);
     display: inline-block;
-    margin: 1rem;
+    margin: 1.5rem;
 }
 
 .social-stats h2 {
@@ -91,10 +87,10 @@ hr {
     letter-spacing: 1px;
 }
 
-@media (max-width:300px) {
+@media (max-width:350px) {
     
     .container{
-        width: 80%;
+        width: 85%;
     }
     body {
         background-position: 110% 70%, 0% -40%;
