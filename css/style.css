@@ -45,6 +45,7 @@ body {
 }
 
 .text h1 {
+    color: hsl(229, 23%, 23%);
     font-size: 18px;
     font-weight: 700;
     position: relative;
@@ -74,6 +75,7 @@ hr {
 }
 
 .social-stats {
+    color: hsl(229, 23%, 23%);
     display: inline-block;
     margin: 1rem;
 }
